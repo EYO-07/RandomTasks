@@ -5,3 +5,5 @@ sequencial_tasks.txt : with necessary daily sequential tasks.
 random_tasks.txt : overhelming random tasks that you can't decide the priority.
 
 Write G and press enter to the next task
+
+Need colorama module ( pip install colorama )
